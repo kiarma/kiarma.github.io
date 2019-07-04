@@ -1,14 +1,22 @@
-title: 小丽丽的日记本 # ex. I m Chuan
-name: makangrui # ex. DONGChuan
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 123123123123 # ex. I m Chuan
+name: Your Name # ex. DONGChuan
 email: my_email_address@lalala.com
 location: My location # ex. Nice, France
 company: MyCompany
 company_url: my_company_website
 github_url: my_github_url # ex. https://github.com/DONGChuan
-github_username: kiarma # ex. DONGChuan
+github_username: # ex. DONGChuan
 description: description_of_your_web_site
 favicon: favicon.png # Image must be in assets/images
-repository: kiarma/kiarma.github.io # ex. DONGChuan/DONGChuan.github.io
+repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
