@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 我是为何下定决心入行程序员的
 category: spring
 ---
