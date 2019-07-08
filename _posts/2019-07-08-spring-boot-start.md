@@ -1,7 +1,7 @@
 ---
 layout: post
-title: spring boot(Ò») ÈëÃÅ
-category: springboot
+title: spring boot(Ò») ÈëÃÅÆª
+category: spring
 ---
 ## Ê²Ã´ÊÇ Spring Boot
 
@@ -26,8 +26,6 @@ Spring Boot ÊÇÓÉ Pivotal ÍÅ¶ÓÌá¹©µÄÈ«ĞÂ¿ò¼Ü£¬ÆäÉè¼ÆÄ¿µÄÊÇÓÃÀ´¼ò»¯ĞÂ Spring Ó¦ÓÃµ
 
 Ê¹ÓÃ Spring Boot µ½µ×ÓĞ¶àË¬£¬ÓÃÏÂÃæÕâ·ùÍ¼À´±í´ï
 
-![img](http://www.itmind.net/assets/images/2016/dog.jpg)
-
 ## ¿ìËÙÈëÃÅ
 
 ËµÁËÄÇÃ´¶à£¬ÊÖÑ÷Ñ÷µÄºÜ£¬ÂíÉÏÀ´Ò»·¢ÊÔÊÔ!
@@ -36,8 +34,6 @@ Spring Boot ÊÇÓÉ Pivotal ÍÅ¶ÓÌá¹©µÄÈ«ĞÂ¿ò¼Ü£¬ÆäÉè¼ÆÄ¿µÄÊÇÓÃÀ´¼ò»¯ĞÂ Spring Ó¦ÓÃµ
 
 - 1¡¢·ÃÎÊ http://start.spring.io/
 - 2¡¢Ñ¡Ôñ¹¹½¨¹¤¾ß Maven Project¡¢Java¡¢Spring Boot °æ±¾ 2.1.3 ÒÔ¼°Ò»Ğ©¹¤³Ì»ù±¾ĞÅÏ¢£¬¿É²Î¿¼ÏÂÍ¼ËùÊ¾£º
-
-![img](http://www.itmind.net/assets/images/2019/springboot/spring-boot-start.png)
 
 - 3¡¢µã»÷ Generate Project ÏÂÔØÏîÄ¿Ñ¹Ëõ°ü
 - 4¡¢½âÑ¹ºó£¬Ê¹ÓÃ Idea µ¼ÈëÏîÄ¿£¬File -> New -> Model from Existing Source.. -> Ñ¡Ôñ½âÑ¹ºóµÄÎÄ¼ş¼Ğ -> OK£¬Ñ¡Ôñ Maven Ò»Â· Next£¬OK done!
@@ -50,8 +46,6 @@ Spring Boot ÊÇÓÉ Pivotal ÍÅ¶ÓÌá¹©µÄÈ«ĞÂ¿ò¼Ü£¬ÆäÉè¼ÆÄ¿µÄÊÇÓÃÀ´¼ò»¯ĞÂ Spring Ó¦ÓÃµ
 - 3¡¢ÌîĞ´Ïà¹ØÄÚÈİºó£¬µã»÷ Next Ñ¡ÔñÒÀÀµµÄ°üÔÙµã»÷ Next£¬×îºóÈ·¶¨ĞÅÏ¢ÎŞÎóµã»÷ Finish¡£
 
 **ÏîÄ¿½á¹¹½éÉÜ**
-
-![img](http://www.itmind.net/assets/images/2016/springboot2.png)
 
 ÈçÉÏÍ¼ËùÊ¾£¬Spring Boot µÄ»ù´¡½á¹¹¹²Èı¸öÎÄ¼ş:
 
