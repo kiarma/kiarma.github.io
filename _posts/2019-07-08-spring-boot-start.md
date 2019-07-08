@@ -1,7 +1,7 @@
 ---
 layout: post
 title: spring boot(一) 入门
-category: spring
+category: springboot
 ---
 ## 什么是 Spring Boot
 
