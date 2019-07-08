@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: post
 title: 我是为何下定决心入行程序员的
 category: spring
+no-post-nav: true
 ---
 这次因为参加一个活动，在深圳呆了一段时间，深度体验了深圳人民的日常生活。但更让我怀念的还是十年前来深圳的那段经历，这段经历成就了现在的我。
 
