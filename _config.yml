@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 小丽丽的日记本 # ex. I m Chuan
-name: LiLi # ex. DONGChuan
+title: 编程随想 # ex. I m Chuan
+name: Rui # ex. DONGChuan
 email: my_email_address@lalala.com
-location: JiNan, China # ex. Nice, France
-company: ieslab
+location: Xian, China # ex. Nice, France
+company: Aote
 company_url: my_company_website
 github_url: my_github_url # ex. https://github.com/DONGChuan
 github_username: # ex. DONGChuan
