@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我很开心
-category: 随想
+category: 并发
 ---
 
 ## 开心
