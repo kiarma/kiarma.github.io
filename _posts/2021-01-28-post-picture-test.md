@@ -10,4 +10,4 @@ category: 并发
 
 (ps: 今天大盘暴跌, 我的基金要亏惨了)
 
-![img](../assets/emoticons/1.gif)
+![img](https://kiarma.github.io/assets/emoticons/1.gif)
