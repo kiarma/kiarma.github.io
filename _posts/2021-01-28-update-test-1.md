@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 更新测试
-category: 测试
+category: 并发
 ---
 
 ## 测试
