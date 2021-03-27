@@ -1,5 +1,5 @@
 * {
-    margin: -1px;
+    margin: 0;
     padding: 0;
     font-family: Helvetica Neue, PingFang SC, Hiragino Sans GB,"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 }
@@ -171,7 +171,7 @@
 }
 
 .geopattern {
-    background-size: contain; /* To fix strange behavior when zoom in/out */
+    background-size: cover; /* To fix strange behavior when zoom in/out */
 }
 
 .sidebar-title {
