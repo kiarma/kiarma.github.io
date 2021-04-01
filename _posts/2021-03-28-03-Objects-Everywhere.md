@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <OnJava8>第三章 万物皆对象
+title: 第三章 万物皆对象
 category: OnJava8
 ---
 
