@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [OnJava8]第一章 对象的概念
+title: 第一章 对象的概念
 category: OnJava8
 ---
 
