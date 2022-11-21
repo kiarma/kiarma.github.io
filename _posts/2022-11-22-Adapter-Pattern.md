@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  设计模式-适配器
+title:  设计模式适配器
 category: 设计模式
 ---
 
