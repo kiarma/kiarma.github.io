@@ -18,7 +18,8 @@
 }
 
 .jumbotron {
-    background: #4183c4;
+    /*background: #4183c4;*/
+    background-image: url("/assets/images/cover.jpg");
 }
 
 .site-header.site-header-nav-scrolled a {
