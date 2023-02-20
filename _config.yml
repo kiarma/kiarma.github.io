@@ -60,9 +60,9 @@ navs:
     href: /
     label: 主页
 
-  -
-    href: /open-source
-    label: 开源项目
+#  -
+#    href: /open-source
+#    label: 开源项目
 
   -
     href: /blog
@@ -72,12 +72,12 @@ navs:
     href: /bookmark
     label: 书签
 
-  -
-    href: /about
-    label: 关于
+#  -
+#    href: /about
+#    label: 关于
 
 # Sidebar to show popular repo
-side_bar_repo_limit: 0 # Number of repos to show
+side_bar_repo_limit: 3 # Number of repos to show
 
 # Google Analytics
 analytics :
