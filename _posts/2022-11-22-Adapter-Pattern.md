@@ -1,14 +1,10 @@
 ---
 layout: post
-title:  设计模式适配器
-category: 设计模式
+title:  设计模式适配器1111111111111111111111111
+category: 并发
 ---
 
 # 随遇而安的适配器模式 | Spring 中的适配器
-
-![适配器设计模式](https://tva1.sinaimg.cn/large/007S8ZIlly1gfjtnx5644j30hs0b4mxx.jpg)
-
-
 
 ## 问题
 
