@@ -2,7 +2,7 @@
     list-style-type: none;
     margin: 20px 0 20px 120px;
     padding-left: 30px;
-    border-left: 8px solid #4183c4;
+    border-left: 8px solid #5a79ba;
 }
 
 #posts-list li {
@@ -21,7 +21,7 @@
     width: 20px;
     height: 20px;
     background: #fff;
-    border: 6px solid #4183c4;
+    border: 6px solid #5a79ba;
     border-radius: 50%;
     display: block;
     position: absolute;
@@ -52,7 +52,7 @@
 }
 
 .posts-content:hover .circle {
-    background: #4183c4;
+    background: #5a79ba;
 }
 
 /* Bubble Float Left - override animate.css */
@@ -86,12 +86,12 @@
     transition-property: transform;
 }
 .bubble-float-left:hover, .bubble-float-left:focus, .bubble-float-left:active {
-    border-color: transparent #4183c4 transparent transparent;
+    border-color: transparent #5a79ba transparent transparent;
     -webkit-transform: translateX(10px);
     transform: translateX(10px);
 }
 .bubble-float-left:hover:before, .bubble-float-left:focus:before, .bubble-float-left:active:before {
-    border-color: transparent #4183c4 transparent transparent;
+    border-color: transparent #5a79ba transparent transparent;
     -webkit-transform: translateX(-20px);
     transform: translateX(-20px);
 }
