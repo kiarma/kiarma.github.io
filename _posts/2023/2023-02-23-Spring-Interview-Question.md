@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Spring 面试集
+title: Spring面试合集
 category: 面试
 ---
 
-# Spring 面试集
+# Spring面试合集
 
 > 基于Spring Framework 4.x 总结的常见面试题，系统学习建议还是官方文档走起：[https://spring.io/projects/spring-framework#learn](https://spring.io/projects/spring-framework#learn)
 
