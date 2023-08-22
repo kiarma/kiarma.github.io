@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: LOVE
 category: 七夕
 ---
