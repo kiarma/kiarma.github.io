@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Spring面试合集
 category: 面试
 ---
