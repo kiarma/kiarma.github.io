@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ÎÒµÄ²©¿Í
-subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; ¼ÇÏÂÃ¿¼şĞÂÊÂÎï ?
+title: æˆ‘çš„åšå®¢
+subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; è®°ä¸‹æ¯ä»¶æ–°äº‹ç‰© ?
 menu: blog
 css: ['blog-page.css']
 ---
