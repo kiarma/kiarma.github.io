@@ -11,24 +11,29 @@
 
     $(document).ready(function(){
         $( "article h2" ).each(function( index ) {
-            $(".post-directory dl").append("<dt><a class=\"jumper\" hre=#" +
-                    $(this).attr("id")
-                    + ">"
-                    + $(this).text()
-                    + "</a></dt>");
+            // $(".post-directory dl").append("<dt><a class=\"jumper\" hre=#" +
+            //         $(this).attr("id")
+            //         + ">"
+            //         + $(this).text()
+            //         + "</a></dt>");
 
-            // var children = $(this).nextUntil("h2", "h3")
-            //
-            // children.each(function( index ) {
-            //     $(".post-directory dl").append("<dd><a class=\"jumper\" hre=#" +
-            //             $(this).attr("id")
-            //             + ">"
-            //             + "&nbsp;&nbsp;- " + $(this).text()
-            //             + "</a></dd>");
-            // });
+            var children = $(this).nextUntil("h2", "h3")
+
+            children.each(function( index ) {
+                $(".post-directory dl").append("<dd><a class=\"jumper\" hre=#" +
+                        $(this).attr("id")
+                        + ">"
+                        + "&nbsp;&nbsp;- " + $(this).text()
+                        + "</a></dd>");
+            });
         });
 
         var fixmeTop = $('#post-directory-module').offset().top - 100;       // get initial position of the element
+
+        $('.post-directory dl').css({      // scroll to that element or below it
+            overflow: 'hidden',
+            overflow: 'scroll'
+        });
 
         $(window).scroll(function() {                  // assign scroll event listener
 
