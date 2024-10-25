@@ -3,7 +3,7 @@ layout: default
 menu: home
 css: ['index.css', 'sidebar-popular-repo.css']
 ---
-<section class="jumbotron geopattern">
+<section class="jumbotron">
     <div class="container">
         <span style="font-size: 24px">{{ site.title }}</span>
         <div id="jumbotron-meta-info">
@@ -63,17 +63,3 @@ css: ['index.css', 'sidebar-popular-repo.css']
     </div>
 
 </section>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.3/jquery.min.js"></script> <!-- optional -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/geopattern/1.2.3/js/geopattern.min.js"></script>
-<script>
-    $(document).ready(function(){
-
-        // $('.geopattern').each(function(){
-        //     $(this).geopattern(Math.random());
-        // });
-
-        var pattern = GeoPattern.generate('mkr1234567lsldfg;dl,a');
-        $('.geopattern').css('background-image', pattern.toDataUrl());
-    });
-</script>
-
