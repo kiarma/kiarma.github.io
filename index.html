@@ -66,10 +66,12 @@ css: ['index.css', 'sidebar-popular-repo.css']
 <script>
     $(document).ready(function(){
 
-        $('.geopattern').each(function(){
-            $(this).geopattern(Math.random());
-        });
+        // $('.geopattern').each(function(){
+        //     $(this).geopattern(Math.random());
+        // });
 
+        var pattern = GeoPattern.generate(Math.random());
+        $('.geopattern').css('background-image', pattern.toDataUrl());
     });
 </script>
 
