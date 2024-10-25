@@ -7,7 +7,7 @@
 
 # Site settings
 title: Rui的编程随想 # ex. I m Chuan
-name: Rui的编程随想 # ex. DONGChuan
+name: Rui # ex. DONGChuan
 email: my_email_address@lalala.com
 location: Xian, China # ex. Nice, France
 company: 人与人最大的不同在于, 你是真的活了一万多天, 还是仅仅生活了一天, 却重复了一万多次
@@ -68,9 +68,9 @@ navs:
     href: /blog
     label: 博客
 
-  -
-    href: /bookmark
-    label: 书签
+#  -
+#    href: /bookmark
+#    label: 书签
 
 #  -
 #    href: /about
