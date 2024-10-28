@@ -1165,11 +1165,3 @@ Vite 是基于浏览器原生的 ES Module ，所以不需要预先打包，而�
 <script setup>
 const env = 'process.env' + '.NODE_ENV'
 </script>
-
-<!-- 评论 -->
-<ClientOnly>
-  <GitalkComment
-    :issueId="194"
-  />
-</ClientOnly>
-<!-- 评论 -->

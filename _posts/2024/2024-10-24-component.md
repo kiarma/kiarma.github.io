@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 单组件的编写
+title: 02-vue3单组件的编写
 category: vue3
 ---
 
@@ -3924,11 +3924,3 @@ npm i -D less
 ```
 
 预处理器也支持 `scoped`，用法请查阅 [样式表的组件作用域](#样式表的组件作用域) 部分。
-
-<!-- 评论 -->
-<ClientOnly>
-  <GitalkComment
-    :issueId="46"
-  />
-</ClientOnly>
-<!-- 评论 -->
