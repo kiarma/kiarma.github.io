@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 详解maven配置中的scope标签
+title: maven配置中的scope标签详解
 category: maven
 ---
+
+# maven配置中的scope标签详解
 
 在 **Maven** 中，`scope` 是用来定义依赖的使用范围的，它决定了依赖的生命周期和在哪些构建阶段可用。Maven 提供了五种常见的 `scope` 类型：
 
