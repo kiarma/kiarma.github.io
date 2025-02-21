@@ -1,6 +1,6 @@
 ---
 layout: post
-title: maven中<scope>标签使用说明
+title: maven的scope标签使用说明
 category: maven
 ---
 
