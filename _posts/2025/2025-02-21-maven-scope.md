@@ -4,11 +4,11 @@ title: maven配置中的scope标签详解
 category: maven
 ---
 
-# maven配置中的scope标签详解
+## maven配置中的scope标签详解
 
 在 **Maven** 中，`scope` 是用来定义依赖的使用范围的，它决定了依赖的生命周期和在哪些构建阶段可用。Maven 提供了五种常见的 `scope` 类型：
 
-## compile
+### compile
 - **默认作用域**：如果没有显式指定 `scope`，Maven 会默认将依赖视为 `compile` 范围。
 - **作用范围**：依赖会在所有构建阶段可用，包括编译、测试、打包等。
 - **使用场景**：适用于项目的核心依赖，比如必须在编译、测试和运行时都能使用的库。
@@ -21,7 +21,7 @@ category: maven
 </dependency> <!-- 默认是 compile -->
 ```
 
-## 2. **provided**
+### 2. **provided**
 - **作用范围**：依赖只在 **编译时** 和 **测试时** 可用，但是在运行时由容器或外部环境提供（例如，Web 容器中通常会提供某些库，如 Servlet API）。
 - **使用场景**：适用于 Web 应用开发，容器（如 Tomcat、Jetty）或某些运行环境会提供这些库。例如，`javax.servlet` 在 Web 应用中通常由容器提供。
 
